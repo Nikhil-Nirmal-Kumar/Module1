@@ -16,9 +16,9 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-a=(1==True)
-b=(0==False)
-c=True + 5
+a=(0==True)
+b=(False==False)
+c=True + True
 d=False + 9
 print("a is True")
 print("b is True")
@@ -27,6 +27,6 @@ print("d:",d)
 ```
 
 ## Output
-<img width="307" height="177" alt="image" src="https://github.com/user-attachments/assets/84d4548a-2f23-43bc-a57a-4edcde09ddd4" />
+<img width="109" height="102" alt="image" src="https://github.com/user-attachments/assets/22c769fe-beb7-4291-af9f-4cc55eaefb1d" />
 
 ## Result
