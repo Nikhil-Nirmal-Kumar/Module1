@@ -22,6 +22,6 @@ else:
 
 ## Output
 <img width="170" height="44" alt="image" src="https://github.com/user-attachments/assets/a67ee220-e598-4c4d-814c-0ecf6d36e6b2" />
-<img width="153" height="40" alt="image" src="https://github.com/user-attachments/assets/583855ce-d8ee-4c59-8a64-7c5bb6a80c8f" />
+<img width="156" height="44" alt="image" src="https://github.com/user-attachments/assets/3e25b151-1a50-4bea-979a-c4d5617d8c0f" />
 
 ## Result
