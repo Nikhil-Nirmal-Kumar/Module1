@@ -10,10 +10,10 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 ```
-men_stepped_on_the_moon=input("Enter a string:")
+men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 ```
 ## Output
-<img width="214" height="42" alt="image" src="https://github.com/user-attachments/assets/ecb3d3c0-d529-4f83-b6e5-fc12e1ad283e" />
+<img width="1023" height="153" alt="image" src="https://github.com/user-attachments/assets/1e65571c-ac04-43fe-9c6f-cfe0ee2fac84" />
 
 ## Result
