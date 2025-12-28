@@ -21,7 +21,8 @@ else:
 ```
 
 ## Output
-<img width="319" height="172" alt="image" src="https://github.com/user-attachments/assets/fa1d60a1-c687-494b-bce2-b32d66125703" />
+<img width="170" height="41" alt="image" src="https://github.com/user-attachments/assets/3721a2c7-194f-4b4d-8247-dcd7dfbd007d" />
+<img width="155" height="46" alt="image" src="https://github.com/user-attachments/assets/74075305-f9b7-4026-82bc-033e94022b0c" />
 
 
 ## Result
